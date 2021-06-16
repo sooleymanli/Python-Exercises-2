@@ -12,10 +12,11 @@
 * 26 Sonra hər hansi şəhərin indeksini tapın və həmin indeksin təkmi cütmü olduğunu ekrana verin.
 * 27 Vurma cədvəlini ekrana yazdıran Python kodu yazın.
 * 28 Yaşı daxil edilən vətəndaşın sürücülük vəsiqəsinə yaşı çatıb-çatmadığını ekrana yazdıran kod yazın.
-* 29 Tərəfləri daxil edilmiş üçbucağın növü müəyyənləşdirilməlidir.Bərabərtərəflidirsə ekrana 1, 
-Bərabəryanlıdırsa ekrana 2, 
- Müxtəliftərəflidirsə ekrana 3 yazıslın. 
- Tək sətirdə boşluqla ayrılmış şəkildə 3 tərəf daxil edilir və nəticə ekrana yazdırılır.
+* 29 Tərəfləri daxil edilmiş üçbucağın növü müəyyənləşdirilməlidir.
+  * Bərabərtərəflidirsə ekrana 1, 
+  * Bərabəryanlıdırsa ekrana 2, 
+  * Müxtəliftərəflidirsə ekrana 3 yazıslın. 
+  * Tək sətirdə boşluqla ayrılmış şəkildə 3 tərəf daxil edilir və nəticə ekrana yazdırılır.
 * 30 Tək sətirdə 3 ədəd daxil edilir və ən böyük və ən kiçiyin hesablanması üçün
  köməkçi funksyalardan istifadə etməklə min( max(x, y), max(y, z), x+y+z)-i müəyyənləşdirin.
  Nətcə vergüldən sonra 2 rəqəm dəqiqliklə ekrana yazdırılsın. 
